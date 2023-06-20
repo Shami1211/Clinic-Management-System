@@ -1,0 +1,132 @@
+
+.other_acalender-1{
+    text-align: center;
+    font-size: 3.5vw;
+}
+
+.other_acalender{
+    
+   text-align: center;
+    color: aliceblue;
+}
+.other_aroom{
+    padding-left: 70px;
+    color: aliceblue;
+    
+}
+.tabl-day{
+    background-color: #006c61;
+    color: #FFFFFF;
+}
+.tabl-ddp{
+    background-color: #006c61bf;
+    color: #FFFFFF;
+}
+.main-cal{
+    padding-left: 18vw;
+    padding-right: 18vw;
+}
+
+.cal{
+    width: 23vw;
+}
+.calender-row{
+    background-color: #ffffff83;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5);
+    height: 26vw;
+    padding: 20px;
+    width: 58vw;
+    
+}
+
+.other-h-1{
+    color: #ffffff;
+}
+
+.calender-row::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.calender-column{
+    float: left;
+    width: 50%;
+    padding: 1vw;
+  
+}
+.room-table{
+   padding: 3vw 10vw 3vw 10vw;
+
+}
+.lab-other-tabl .lab-tab{
+    border: 1px solid #006c61ac; 
+}
+
+.other-tabl-ful{
+    background-color: #ffffff83;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5);
+    width: 100%;
+    height: 120%;
+    padding-left: 50px;
+    padding-bottom: 0px;
+    padding-right: 50px;
+
+}
+.other-h-1{
+   font-size: 50px;
+   text-align: center;
+   padding: 5px;
+}
+.lab-other-tabl{
+    background-color: #ffffff;
+    max-width: 73vw;
+    width: 100%;
+    height: 80%;
+}
+
+ /*Login Boutton*/
+
+  
+  .other-button-24 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Libre Franklin;
+    font-size: 2vw;
+    font-weight: 800;
+    line-height: 3vw;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 15vw;
+  }
+  
+  .other-button-24:hover,
+  .other-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #ffffff;
+  }
+  
+  .form-button-24:active {
+    opacity: .5;
+  }
+
+  .sham{
+text-align: center;    
+}
+  

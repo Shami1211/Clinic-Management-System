@@ -1,0 +1,261 @@
+/*Roboto*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+
+.Dreport-full{
+    background-color: white;
+    width: 100%;
+    padding: 5px;
+    height: 100%;
+}
+
+.report-3{
+    border: 3px solid #000000;
+    padding: 10px;
+}
+
+.Dreport-1{
+    padding-left: 22%;
+    padding-right: 22%;
+}
+
+.Dreport-1rt{
+    padding-left: 19%;
+    padding-right: 18%;
+}
+
+.hom-h {
+    text-align: center;
+    font-family: Roboto;
+    color: #000;
+    font-size: 25px;
+}
+
+.hom-h9{
+    text-align: center;
+    font-family: Roboto;
+    color: #000;
+    font-size: 40px;
+}
+
+.imgg{
+    text-align: center;
+    padding: 10px;
+}
+
+.report-tb{
+    padding-left: 1vw;
+    padding-right: 1vw;  
+}
+
+.report-td{
+    width: 281px;
+    border: 1px solid #000000;
+    height: 40px;
+    padding: 6px;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+.report-td-ap{
+    width: 1080px;
+    border: 3px solid #000000;
+    height: 40px;
+    padding: 5px 2px;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+
+.report-t{
+    width: 10%;
+    height: 40px;
+    padding: 6px;
+    border: 3px solid #000000;
+    letter-spacing: 0.1px;
+}
+
+.report-ter{
+    width: 17.3vw;
+    height: 40px;
+    padding: 6px;
+    border: 2px solid #000000;
+    letter-spacing: 0.1px;
+}
+
+.report-terd{
+    width: 17.3vw;
+    height: 40px;
+    padding: 6px;
+    border: 2px solid #000000;
+    letter-spacing: 0.1px;
+}
+
+
+.report-tap{
+    width: 880px;
+    height: 40px;
+    padding: 6px;
+    border: 3px solid #000000b4;
+    letter-spacing: 0.1px;
+}
+
+.report-tap-num{
+    width: 100px;
+    height: 40px;
+    padding: 6px;
+    border: 3px solid #000000b4;
+    letter-spacing: 0.1px;
+}
+
+.report-tap-id{
+    width: 800px;
+    height: 40px;
+    padding: 6px;
+    border: 3px solid #000000b4;
+    letter-spacing: 0.1px;
+
+}
+
+.report-tap-nam{
+    width: 280px;
+    height: 40px;
+    padding: 6px;
+    border: 3px solid #000000b4;
+    letter-spacing: 0.1px;
+}
+
+.report-fre{
+    padding: 1px;
+}
+
+.report-1-nw{
+    text-align: center;
+    padding: 10px;
+    font-family: Roboto;
+    color: #000;
+    font-size: 35px;
+    
+}
+
+.report-tb1{
+    padding-left: 100px;
+
+}
+
+.report-h3ry{
+    font-family: Roboto;
+    font-size: 1.3vw;
+    font-weight: 100px;
+}
+
+.report-h3ryz{
+    font-family: Roboto;
+    font-size: 1.5vw;
+    font-weight: 100px;
+    text-align: center;
+}
+
+.report-h3ap{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 100px;
+    text-align: center;
+}
+
+.report-h30{
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 500px;
+
+}
+
+
+  /*Login Boutton*/
+  .report-b{
+  text-align: center;
+
+  }
+  
+  .report-button-24 {
+    background: #006c61;
+    border: 2px solid #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height:55px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 250px;
+    letter-spacing: 1px;
+    
+  }
+  
+  .report-button-24:hover,
+  .report-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+    background-color: #FFFFFF;
+  }
+  
+  .report-button-24:active {
+    opacity: .5;
+  }
+  
+
+  .report-button-248 {
+    background: #ff0000;
+    border: 2px solid #ff0000;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height:55px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 200px;
+    letter-spacing: 1px;
+    
+  }
+  
+  .report-button-248:hover,
+  .report-button-248:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #ff0000;
+    background-color: #FFFFFF;
+  }
+  
+  .report-button-248:active {
+    opacity: .5;
+  }
+  
+  .wd19{
+    width: 290px;
+  }
+  .Dform-b56{
+    padding-left: 250px;
+  }

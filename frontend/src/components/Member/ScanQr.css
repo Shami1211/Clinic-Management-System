@@ -1,0 +1,32 @@
+.qr-code {
+  margin: 20px auto;
+  display: block;
+}
+
+.scan-qr-label {
+  font-family: Libre Franklin;
+  max-width: 50ch;
+  color: #000000;
+  font-size: 25px;
+  font-weight: 1000;
+  text-align: center;
+}
+
+.q-box{
+  background-color: white;
+  padding: 10px;
+  width: 500px;
+  height: 500px;
+}
+.q-box-1{
+  padding-left: 35vw;
+  padding-right: 35vw;
+}
+
+.qr-mem{
+  height: 400px;
+  width: 400px;
+}
+.qr-logo{
+  padding-left: 40px;
+}

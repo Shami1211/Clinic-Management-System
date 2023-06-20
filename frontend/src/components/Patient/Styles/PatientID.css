@@ -1,0 +1,143 @@
+/*Roboto*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Noto Sans*/ @import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap');
+.patientId-full{
+    background-color: white;
+    width: 650px;
+    padding: 5px;
+    margin: auto;
+    height: 300px;
+    border: 5px solid;
+
+}
+.patientId-3{
+    border: 3px solid #000000;
+    padding: 10px;
+
+}
+.patientId-31{
+
+    padding: 10px;
+
+}
+.patientId-1{
+    padding-left: 400px;
+    text-align: center;
+}
+.patientId-h {
+    text-align: center;
+    font-family: Roboto;
+    color: #000;
+    font-size: 20px;
+}
+.patientId-h9{
+    text-align: center;
+    font-family: Roboto;
+    color: #000;
+    font-size: 30px;
+}
+.patientIdimgg{
+    text-align: center;
+
+    padding: 10px;
+}
+/*.patientreport-tb{
+    /*padding-left: 234px;
+
+}*/
+.patientId-td1{
+    width: 350px;
+    text-align: left;
+        padding: 2px;
+}
+.patientId-td2{
+    width: 26px;
+    text-align: center;
+       padding: 2px;
+}
+.patientId-td3{
+    width: 260px;
+    text-align: left;
+    padding: 2px;
+}
+
+.patientId-td4{
+    width: 185px;
+    text-align: left;
+        border: 2px solid #000000;
+        padding: 2px;
+}
+.patientId-1{
+    padding-left: 150px;
+    padding: 10px;
+    font-family: Roboto;
+    color: #000;
+    font-size: 16px;
+}
+.patientId-11{
+    padding-left: 150px;
+    padding: 10px;
+    font-family: Roboto;
+    color: #000;
+    font-size: 20px;
+}
+/*.patientreport-tb1{
+   /* padding-left: 240px;
+
+
+}*/
+.patientId-h3{
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+  /*Login Boutton*/
+  .patientId-b{
+   margin: auto;
+
+  }
+  
+  .patientId-button-24 {
+    background: #006c61;
+    border: 2px solid #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 16px;
+    margin: auto;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 200px;
+    
+    
+  }
+  
+  .patientId-button-24:hover,
+  .patientId-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+    background-color: #FFFFFF;
+  }
+  
+  .patientId-button-24:active {
+    opacity: .5;
+  }
+
+  .idNotice{
+    font-family: 'Schibsted Grotesk', sans-serif;
+    font-size: 16px;
+    text-align: end;
+  }

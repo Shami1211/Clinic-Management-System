@@ -1,0 +1,57 @@
+.ama-daily-form{
+    background-color: #ffffff;
+    width: 650px;
+    height: 640px;
+    padding: 3rem;
+    border-radius: 10px;
+}
+
+.ama-generate-all{
+    padding-left: 30%;
+}
+
+.ama-report-topic{
+    text-align: center;
+    padding: 1rem;
+    font-size: 45px;
+    color: white;
+    font-family: Oswald;
+}
+
+.ama-dadd-b{
+    padding-right: px;
+  }
+  
+  .ama-dadd-button-24 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Oswald;
+    font-size: 23px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 180px;
+    height: 50px;
+  }
+
+  .ama-dadd-button-24:hover,
+  .ama-dadd-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }

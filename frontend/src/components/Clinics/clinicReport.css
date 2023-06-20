@@ -1,0 +1,51 @@
+.clinic-report-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.clinic-report-title{
+    font-size: 32px;
+    font-weight: 700;
+    padding: 10px;
+    color: white;
+}
+
+.clinic-report-charts{
+    display: flex;
+    flex-direction: row;
+
+}
+.clinic-report-pie-charts{
+    display: flex;
+    flex-direction: column;
+}
+
+.clinic-report-card-title{
+    color: rgb(54, 54, 54);
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.clinic-report-card{
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 4px 15px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(255, 255, 255);
+}
+
+.clinic-report-download-button{
+    height: 50px;
+    font-size: 24px;
+    font-weight: 700;
+    background-color: #006c61;
+    color: white;
+    margin: 5px;
+    border-radius: 7px;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+
+.clinic-report-download-button:hover{
+    background-color:#006c61;
+}

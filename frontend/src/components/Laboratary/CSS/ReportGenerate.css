@@ -1,0 +1,167 @@
+/*Roboto*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+
+.Dreport-fullr{
+    background-color: white;
+    width: 60vw;
+    padding: 5px;
+}
+.Dreport-full{
+  background-color: white;
+  width: 80vw;
+  padding: 5px;
+}
+.report-3{
+    border: 4px solid #000000;
+    padding: 10px;
+}
+.Dreport-1{
+    padding-left: 30px;
+    padding-top: 100px;
+
+}
+.form-h001{
+  font-size: 1.3vw;
+  font-weight: 500;
+}
+.hom-h {
+    text-align: center;
+    font-family: Roboto;
+    color: #000;
+    font-size: 20px;
+}
+.hom-h9{
+    text-align: center;
+    font-family: Roboto;
+    color: #000;
+    font-size: 30px;
+}
+.imgg{
+    text-align: center;
+    padding: 10px;
+}
+.report-tb{
+    padding-left: 234px;
+
+}
+.report-td{
+    width: 180px;
+}
+.report-1{
+    padding-left: 150px;
+    padding: 10px;
+    font-family: Roboto;
+    color: #000;
+    font-size: 30px;
+}
+.report-tb1{
+    padding-left: 240px;
+
+
+}
+.report-h3{
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+  /*Login Boutton*/
+  .report-bb{
+   padding-left: 42vw;
+
+  }
+  
+  .report-button-24r {
+    background: #006c61;
+    border: 2px solid #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 1.5vw;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 15vw;
+    
+    
+  }
+  
+  .report-button-24r:hover,
+  .report-button-24r:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+    background-color: #FFFFFF;
+  }
+  
+  .report-button-24r:active {
+    opacity: .5;
+  }
+  
+  .report-button-24 {
+    background: #006c61;
+    border: 2px solid #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 1.5vw;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 15vw;
+    
+    
+  }
+  
+  .report-button-24:hover,
+  .report-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+    background-color: #FFFFFF;
+  }
+  
+  .report-button-24:active {
+    opacity: .5;
+  }
+  
+
+  .Dreport-3{
+    padding-top: 30px;
+    
+  }
+
+  .generateh1{
+    font-size: 1.8vw;
+  }
+
+  .generatetble{
+    font-size: 7px;
+    padding-left: 2vw;
+  }
+
+  .genetd{
+    padding-right: 200px;
+  }

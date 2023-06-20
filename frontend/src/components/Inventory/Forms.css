@@ -1,0 +1,60 @@
+.in-form{
+    background-color: #ffffff;
+    width: 750px;
+    padding: 1rem;
+    margin-top: 3rem;
+    border-radius: 10px;
+}
+
+.in-form-all{
+    padding-left: 25%;
+}
+
+.in-heading{
+    text-align: center;
+    font-family: "Oswald";
+    font-size: 32px;
+    padding-top: 100px;
+    color: #ffffff;
+}
+
+  .dadd-b{
+    padding-left: 20px;
+  }
+  
+  .dadd-button-24 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Oswald";
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 200px;
+  }
+  
+  .dadd-button-24:hover,
+  .dadd-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .form-button-24:active {
+    opacity: .5;
+  }

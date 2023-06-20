@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Libre+Franklin&family=Noto+Serif+Hebrew&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Condensed:wght@300;400&family=Roboto+Slab:wght@400;600;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Zilla+Slab:ital,wght@1,500&display=swap');
+
+*{
+    background-repeat: no-repeat;
+    background-color: none;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: rgb(4,139,94);
+    background: linear-gradient(90deg, rgba(4,139,94,1) 0%, rgba(2,107,97,1) 40%, rgba(5,94,112,1) 100%);
+    
+  }
+  
+.in-h1-log {
+  text-align: center;
+  font-family: Libre Franklin;
+  max-width: 50ch;
+  color: white;
+  transform: scale(0.94);
+  animation: scale 5s forwards cubic-bezier(0.5, 1, 0.89, 1);
+  font-size: 3vw;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-left: 60px;
+}
+
+  .login-Main{
+    padding-left: 20%;
+    padding-right: 20%;
+    backdrop-filter: blur(20px);
+
+  }
+  
+  .login-fullbox{
+    padding: 10px;
+  }
+  
+  .login-f{
+    padding-left: 25px;
+  }
+  
+  .login-signin{
+    width: 120%;
+    height: 500px;
+    padding-left: 40px;
+  }
+  
+  .login-column1 {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    background-size:100% ;
+    text-align: center;
+  }
+  
+  .login-column2 {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .login-row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .login-row{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+  
+  }
+  
+  .login-in{
+    padding-left: 40px;
+  }
+  
+  .login-h2{
+    text-align: center;
+    font-family: Libre Franklin;
+    max-width: 50ch;
+    color: #000000;
+    font-size: 40px;
+    font-weight: 1000;
+  }
+  
+  .hem-login-h3{
+    font-family: Libre Franklin;
+    padding-left: 30px;
+    color: #000000;
+    font-size: 1.5vw;
+    font-weight: 50px;
+  }
+  
+ .hem-Input-log{
+    width: 350px;
+    max-width: 320px;
+    height: 40px;
+    padding: 12px;
+    text-transform: none;
+    border-radius: 4px;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+  }
+  
+  .Input-log:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .Input-log:active {
+    transform: scale(0.95);
+  }
+  
+  .Input-log:focus {
+    border: 2px solid #006c61;
+  }
+  
+  .login-b{
+    padding-left: 150px;
+  }
+  
+  .login-button-24 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Libre Franklin;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 100px;
+    text-decoration: none;
+    
+  }
+  
+  .login-button-24:hover,
+  .login-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .login-button-24:active {
+    opacity: .5;
+  }
+  
+  .login-but2{
+    padding-left: 65%;
+  }
+  .login-b2 {
+    font-size: 10px;
+    color: #000000;
+    font-family: Libre Franklin;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition-duration: 400ms;
+    transition-property: color;
+  }
+  
+  .login-b2:focus,
+  .login-b2:hover {
+    color: #006c61;
+  }
+  
+  .login-b2:focus:after,
+  .login-b2:hover:after {
+    width: 100%;
+    left: 0%;
+  }
+  
+  .login-b2:after {
+    content: "";
+    pointer-events: none;
+    bottom: -2px;
+    left: 50%;
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    background-color: #006c61;
+    transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition-duration: 400ms;
+    transition-property: width, left;
+  }
+  
+  .login-hr {
+    border: 0;
+    height: 4px;
+    background-image: linear-gradient(to right, #00000000, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }

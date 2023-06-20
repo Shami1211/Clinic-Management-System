@@ -1,0 +1,95 @@
+
+.b{
+  margin: auto;
+  padding: 1rem;
+}
+.g{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+  /*INPUT COLUM*/
+  .reg-input {
+    max-width: 320px;
+    height: 35px;
+    padding: 12px;
+    border-radius: 5px;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+  }
+  
+  .reginput:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .reg-input:active {
+    transform: scale(0.95);
+  }
+  
+  .reg-input:focus {
+    border: 2px solid #006c61;
+  }
+  
+  .add-put-pn{
+    width: 900px;
+  }
+
+    /*INPUT COLUM*/
+    .add-put {
+      max-width: 720px;
+      height: 35px;
+      padding: 12px;
+      border: 2px solid #006c61;
+      outline: none;
+      transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+      box-shadow: 0px 0px 20px -18px;
+    }
+    
+    .add-put:hover {
+      border: 2px solid #006c61;
+      box-shadow: 0px 0px 20px -17px;
+    }
+    
+    .add-put:active {
+      transform: scale(0.95);
+    }
+    
+    .add-put:focus {
+      border: 2px solid #006c61;
+    }
+    
+  
+    /*INPUT COLUM*/
+    .add-pati{
+      width: 340px;
+      height: 35px;
+      padding: 12px;
+      border: 2px solid #006c61;
+      outline: none;
+      transition: all 8s cubic-bezier(0.19, 1, 0.22, 1);
+      box-shadow: 0px 0px 20px -18px;
+    }
+    
+  
+    .add-pati:hover {
+      border: 2px solid #006c61;
+      box-shadow: 0px 0px 20px -17px;
+    }
+    
+    .add-pati:active {
+      transform: scale(0.95);
+    }
+    
+    .add-pati:focus {
+      border: 2px solid #006c61;
+    }
+    
+   
+   .form-b-patin{
+    padding-left: 300px;
+   }

@@ -1,0 +1,51 @@
+
+.scan-ful{
+    background-color: #ffffff;
+    border-radius: 10px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 600px;
+}
+.scan-full{
+    padding-left: 450px;
+}
+
+.sca-button {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 200px;
+  }
+  
+  .sca-button:hover,
+  .sca-button:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .sca-button:active {
+    opacity: .5;
+  }
+  .scnn-btn{
+    padding-left: 200px;
+  }

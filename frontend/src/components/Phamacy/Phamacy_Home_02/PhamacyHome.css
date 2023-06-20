@@ -1,0 +1,211 @@
+/*Roboto*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Roboto Condensed*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Condensed:wght@300&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+.lb-lg-pr123{
+width: 90%;
+}
+
+.lb-lg-pr12369{
+    width: 48vw;
+    height: 30vw;
+}
+
+.lb-lg-pr12369369{
+    width: 48vw;
+    height: 35vw;
+}
+
+.lb-lg-pr123695{
+    width: 48vw;
+    height: 33vw;
+}
+
+.lb-lg-pr000{
+    width: 48vw;
+    height: 33vw;
+}
+
+.ph-h1-labr{
+    color: #ffffff;
+    font-size: 3vw;
+    text-align: center;
+}
+
+.ph-h1-labrd{
+    color: #ffffff;
+    font-size: 3vw;
+    text-align: center;
+    padding-bottom: 13.3%;
+}
+.phome-containerrr{
+    padding: 2%;
+}
+
+.ful-logr{
+    padding: 20px;
+    height:35vw;
+    background-color: #ffffff6c;
+}
+
+.ful-logr:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.full-logr{
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 100%;
+}
+
+.main-h-1{
+    font-family: Roboto;
+    letter-spacing: 1px;
+    font-size: 60px;
+}
+.h-1-p2{
+   text-align: center;
+   width: 50%;
+}
+
+.h-1-phtooi{
+  padding-left: 32%;
+  padding-bottom: 1vw;
+  padding-top: 2vw;
+}
+
+.main-h-1{
+  font-family: Roboto;
+  letter-spacing: 1px;
+  font-size: 60px;
+}
+
+.lab-hom-h3{
+    font-size: 20px;
+}
+.hom-html{
+    padding: 30px;
+}
+
+.hom-headingr{
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+    padding-bottom: 0.9rem;
+    font-size: 4.5vw;
+}
+
+.hom-htmlr{
+    padding-left: 25vw;
+    padding-right: 22vw;
+}
+
+.hom-btn-par{
+    margin-top: 10px;
+    display: inline-block;
+    padding:0.5vw;
+    font-size: 1vw;
+    color:#fff;
+    background: #006c61;
+    cursor: pointer;
+    font-family: Sarala;
+    height: 2.5vw;
+    width: 12vw;
+    text-align: center;
+}
+
+.hom-btn-par:hover{
+    letter-spacing: 0.5px;
+    background-color: #006c61;
+}
+
+.hom-menu-pa{
+    border: 2px solid rgba(255,255,255,.5);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px  rgba(0,0,0,.5) ;
+    background-color: #ffffff20;
+    height: 480px;
+    padding: 23px;
+}
+
+.hom-menu-par{
+    border: 2px solid rgba(255,255,255,.5);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px  rgba(0,0,0,.5) ;
+    background-color: #ffffff20;
+    height: 480px;
+    padding: 23px;
+}
+
+.hom-heading .hom-span{
+    color:#ffffff;
+    text-transform: uppercase;
+}
+
+.hom-box8r{
+    height: 18vw;
+    width: 18vw;
+    padding:  2vw;
+    background-color: #fff;
+    text-align: center;
+}
+
+.hom-box-containerrr{
+    padding: 30vw;
+}
+
+.hom-menu-pa .hom-box-containerr{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    gap:30px;  
+}
+
+.hom-menu-pa .hom-box-container .hom-box8r{
+    padding:20px;
+    text-align: center;
+}
+
+.hom-menu-pa .hom-box-container .hom-box8r .hom-img{
+    height: 150px;
+    width: 150px;
+}
+
+
+.hom-menu-pa .hom-box-container .hom-box8r .hom-h3{
+    color: #000000;
+    font-size: 15px;
+    padding:2px;
+    font-weight: 500;
+}
+
+
+.hom-menu-pa .hom-box-container .hom-box8r .price .hom-span{
+    font-size: 9px;
+    text-decoration: line-through;
+    font-weight: lighter;
+}
+
+.hom-menu-pa .hom-box-container .hom-box8r:hover{
+    background:#006c615e;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px  rgba(0,0,0,.5) ;
+}
+
+.hom-menu-pa .hom-box-container .hom-btn-par:hover{
+    background:#fdfdfd;
+    border: 3px solid rgba(255,255,255,.5);
+}
+
+.hom-menu-pa .hom-box-container .hom-box8r:hover > *{
+    color:var(--black);
+}
+
+
+
+
+
+
+

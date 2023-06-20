@@ -1,0 +1,56 @@
+/*Libre Franklin*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Libre+Franklin&family=Noto+Serif+Hebrew&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Condensed:wght@300;400&family=Roboto+Slab:wght@400;600;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+.scan-fulr{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 40vw;
+}
+.scan-full{
+    padding-left: 28vw;
+    padding-right: 28vw;
+}
+
+.scan-fullred{
+  padding-left: 32vw;
+}
+
+.scan-button {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Libre Franklin;
+    font-size: 1.5vw;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 10vw;
+    letter-spacing: 1.5px;
+  }
+  
+  .scan-button:hover,
+  .scan-button:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .scan-button:active {
+    opacity: .5;
+  }
+  .scn-btn-new{
+    padding-left: 15vw;
+  }

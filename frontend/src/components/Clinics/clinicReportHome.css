@@ -1,0 +1,38 @@
+.clinic-report-home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.clinic-report-home-form-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    background-color: #f3f3f3;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 7px;
+
+}
+
+.clinic-report-home-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.select-clinic{
+    width: 370px;
+    height: 50px;
+    margin: 5px;
+    color: black;
+}
+
+.lefty{
+    padding-left: 5vw;
+}

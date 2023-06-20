@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.hem-view-table {
+    background-color: white;
+    align-items: center;
+    width: 95%;
+    margin: auto;
+    font-family: Oswald;
+    margin-bottom: 99px;
+}
+
+.hem-table-td {
+    width: 220px;
+    text-align: center;
+    font-family: Oswald;
+    font-size: 18px;
+    text-transform: none;
+    border: 2px solid black;
+
+}
+.hem-table-tdata {
+    width: 220px;
+    text-align: center;
+    font-family: Oswald;
+    font-size: 20px;
+    text-transform: none;
+}
+
+
+.hem-table {
+    margin-top: 3rem;
+    border-collapse: collapse;
+}
+
+.hem-search-bar {
+    padding-top: 20px;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    margin-top: 35px;
+    margin-left: 40px;
+}
+
+.hem-search-button {
+    margin-left: 8px;
+    margin-top: 100px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hem-no-results-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    padding-top: 188px;
+}
+
+.hem-no-results-text {
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: -100px;
+    font-family: "Oswald";
+    padding-bottom: 280px;
+    font-size: 30px;
+}
+
+.hem-header-row {
+    height: 40px;
+    font-size: 18px;
+}
+
+.hem-topic-name {
+    margin-top: 20px;
+    color: #fff;
+    font-family: Oswald;
+}
+
+.hem-h1{
+    font-family:  Oswald ;
+    text-align: center;
+    font-size: 32px;
+    color: #fff;
+}

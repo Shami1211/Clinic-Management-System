@@ -1,0 +1,132 @@
+/*Roboto*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+
+.patientreport-full{
+    background-color: white;
+    width: 1000px;
+    padding: 5px;
+    margin: auto;
+
+}
+.patientreport-3{
+    border: 3px solid #000000;
+    padding: 10px;
+
+}
+.patientreport-31{
+
+    padding: 10px;
+
+}
+.patientreport-1{
+    padding-left: 40vw;
+    text-align: center;
+}
+.patienthom-h {
+    text-align: center;
+    font-family: Roboto;
+    color: #000;
+    font-size: 20px;
+}
+.patienthom-h9{
+    text-align: center;
+    font-family: Roboto;
+    color: #000;
+    font-size: 30px;
+}
+.patientimgg{
+    text-align: center;
+
+    padding: 10px;
+}
+/*.patientreport-tb{
+    /*padding-left: 234px;
+
+}*/
+.patientreport-td1{
+    width: 280px;
+    text-align: left;
+        border: 2px solid #000000;
+        padding: 2px;
+}
+.patientreport-td2{
+    width: 260px;
+    text-align: left;
+        border: 2px solid #000000;
+        padding: 2px;
+}
+.patientreport-td3{
+    width: 185px;
+    text-align: left;
+        border: 2px solid #000000;
+        padding: 2px;
+}
+
+.patientreport-td4{
+    width: 185px;
+    text-align: left;
+        border: 2px solid #000000;
+        padding: 2px;
+}
+.patientreport-1{
+    padding-left: 150px;
+    padding: 10px;
+    font-family: Roboto;
+    color: #000;
+    font-size: 30px;
+}
+/*.patientreport-tb1{
+   /* padding-left: 240px;
+
+
+}*/
+.patientreport-h3{
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+  /*Login Boutton*/
+  .patientreport-b{
+   margin: auto;
+
+  }
+  
+  .patientreport-button-24 {
+    background: #006c61;
+    border: 2px solid #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 16px;
+    margin: auto;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 200px;
+    
+    
+  }
+  
+  .patientreport-button-24:hover,
+  .patientreport-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+    background-color: #FFFFFF;
+  }
+  
+  .patientreport-button-24:active {
+    opacity: .5;
+  }
+  

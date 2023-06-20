@@ -1,0 +1,88 @@
+.form-Main-staff{
+  padding-left: 300px;
+}
+.form-h2-staff{
+  text-align: center;
+}
+/*INPUT COLUMN*/
+.streg-input {
+  max-width: 320px;
+  height: 35px;
+  padding: 12px;
+  border: 2px solid hsl(174, 100%, 21%);
+  outline: none;
+  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  box-shadow: 0px 0px 20px -18px;
+}
+
+.streginput:hover {
+  border: 2px solid #006c61;
+  box-shadow: 0px 0px 20px -17px;
+}
+
+.streg-input:active {
+  transform: scale(0.95);
+}
+
+.atreg-input:focus {
+  border: 2px solid #006c61;
+}
+
+.add-put-st{
+  width: 900px;
+}
+
+  /*INPUT COLUM*/
+  .stadd-put {
+    max-width: 720px;
+    height: 35px;
+    padding: 12px;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+  }
+  
+  .stadd-put:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .stadd-put:active {
+    transform: scale(0.95);
+  }
+  
+  .stadd-put:focus {
+    border: 2px solid #006c61;
+  }
+  
+
+  /*INPUT COLUM*/
+  .stadd-pati{
+    width: 340px;
+    height: 35px;
+    padding: 12px;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 8s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+  }
+  
+
+  .stadd-pati:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .stadd-pati:active {
+    transform: scale(0.95);
+  }
+  
+  .stadd-pati:focus {
+    border: 2px solid #006c61;
+  }
+  
+ 
+ .form-b-stpatin{
+  padding-left: 300px;
+ }

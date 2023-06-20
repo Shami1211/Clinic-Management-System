@@ -1,0 +1,104 @@
+/* import font*/
+
+/*Staatliches*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Noto Serif Japanese*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Asap*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+  
+  /*FUUL BOX CSS*/
+
+  .updtform-ball{
+    padding-left: 300px;
+  }
+
+  .updtform-fullbox{
+    padding: 10px;
+  }
+  
+  .updtform-f{
+    padding-left: 25px;
+  }
+
+  /* Create two equal columns that floats next to each other */
+
+  
+  .updtform-row1{
+    background-color: #ffffff;
+    border-radius: 10px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 900px;
+    height: 1000px;
+  }
+  
+  .updtform-from{
+    padding-left: 1%;
+  }
+  
+  /*BOX2 CSS*/
+  .updtform-in{
+    padding-left: 40px;
+  }
+  
+  .updtform-h2{
+    text-align: center;
+     font-family: Asap;
+     max-width: 50ch;
+     color: #000000;
+     font-size: 30px;
+     font-weight: 1000;
+  }
+  
+  .updtform-h3{
+    font-family: Asap;
+    padding-left: 30px;
+    color: #000000;
+    font-size: 19px;
+    font-weight: 50px;
+  }
+  
+  
+  /*Login Boutton*/
+  .upform-b{
+    padding-left: 300px;
+  }
+  
+  .updtform-button-24 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 200px;
+  }
+  
+  .updtform-button-24:hover,
+  .updtform-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .updtform-button-24:active {
+    opacity: .5;
+  }
+  
+  
+  /*end*/
+  
+  /*MR.DILA*/

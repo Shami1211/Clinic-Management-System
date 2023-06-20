@@ -1,0 +1,172 @@
+/* import font*/
+/*Inter*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Staatliches*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Noto Serif Japanese*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Asap*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Libre Franklin*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Libre+Franklin&family=Noto+Serif+Hebrew&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Condensed:wght@300;400&family=Roboto+Slab:wght@400;600;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Roboto Slab*/ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Zilla+Slab:ital,wght@1,500&display=swap');  
+  
+/*FUUL BOX CSS*/
+  .form-Main-up{
+    padding-left: 320px;
+  }
+ 
+  .form-fullbox{
+    padding: 10px;
+  }
+
+  .form-f{
+    padding-left: 25px;
+  }
+
+  ::-webkit-scrollbar{
+    width: 9px;
+    background-color: #006c61;
+  }
+
+  ::-webkit-scrollbar-thumb{
+    background-color: #feffff;
+  }
+
+  /* Create two equal columns that floats next to each other */
+
+  .form-row1{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 900px;
+    height: 220%;
+  }
+  
+  .form-from{
+    padding-left: 1%;
+  }
+  
+  /*BOX2 CSS*/
+  .form-in{
+    padding-left: 40px;
+  }
+  
+  .form-h2-up{
+    text-align: center;
+    font-family: Libre Franklin;
+     color: #000000;
+     font-size: 35px;
+     font-weight: 1000;
+  }
+  
+  .form-h3{
+    font-family: Libre Franklin;
+    padding-left: 30px;
+    color: #000000;
+    font-size: 19px;
+    font-weight: 50px;
+  }
+  
+  /*INPUT COLUM*/
+  .update-in {
+    width: 720px;
+    height: 40px;
+    padding: 12px;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+    font-size: 17px;
+  }
+  
+ .update-in:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .update-in:active {
+    transform: scale(0.95);
+  }
+  
+ .update-in:focus {
+    border: 2px solid #006c61;
+  }
+  
+  /*Login Boutton*/
+  .dupdate-b{
+    padding-left: 300px;
+  }
+  
+  .form-button-24 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Libre Franklin;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 200px;
+  }
+  
+  .form-button-24:hover,
+  .form-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .form-button-24:active {
+    opacity: .5;
+  }
+  
+    /*Login Boutton*/
+    .dadd-b-apup{
+      padding-left: 280px;
+    }
+  
+    .dadd-button-apup {
+      background: #006c61;
+      border: 2px solid #006c61;
+      box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      cursor: pointer;
+      display: inline-block;
+      font-family: Libre Franklin;
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 16px;
+      min-height: 45px;
+      outline: 0;
+      padding: 12px 14px;
+      text-align: center;
+      text-rendering: geometricprecision;
+      text-transform: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      vertical-align: middle;
+      width: 250px;
+    }
+    
+    .dadd-button-apup:hover,
+    .dadd-button-apup:active {
+      background-color: initial;
+      background-position: 0 0;
+      color: #006c61;
+    }
+    
+    .dadd-button-apup:active {
+      opacity: .5;
+    }
+  

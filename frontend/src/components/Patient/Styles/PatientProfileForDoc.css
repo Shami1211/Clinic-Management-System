@@ -1,0 +1,77 @@
+/*Schibsted Grotesk*/
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap');
+
+.ppfordoc-main{
+    background-color: #ffffff;
+    border-radius: 2px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 54vw;
+    padding: 2vw;
+
+}
+.ppfordoc{
+    padding-left: 22vw;
+    padding-right: 22vw;
+    
+}
+.ppfordoc-td{
+    padding: 0.5vw;
+}
+.ppfordoc-label{
+    font-size: 1.3vw;
+    font-family: Schibsted Grotesk;
+}
+.ppfordoc-h3{
+    font-family: Schibsted Grotesk;
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+
+.ppfordoc-button {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Schibsted Grotesk;
+    font-size: 1.3vw;
+    font-weight: 500;
+    line-height: 16px;
+    min-height: 3vw;
+    outline: 0;
+    padding: 1vw 0.8vw;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 25vw;
+    letter-spacing: 1px;
+  }
+  
+  .ppfordoc-button:hover,
+  .ppfordoc-button:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .ppfordoc-button:active {
+    opacity: .5;
+  }
+
+  .ppfordoc-btn{
+    padding-left: 12vw;
+  }
+  .ppfordoc-h1{
+    text-align: center;
+    font-family: Schibsted Grotesk;
+    font-size: 2.5vw;
+    font-weight: bold;
+  }

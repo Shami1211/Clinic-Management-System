@@ -1,0 +1,43 @@
+body{
+  background: rgb(4,139,94);
+  background: linear-gradient(90deg, rgba(4,139,94,1) 0%, rgba(2,107,97,1) 40%, rgba(5,94,112,1) 100%);
+   
+  }
+
+  .lhom-logo1{
+    background-image: url('photos/Home.png');
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 1px solid rgba(0,0,0,.5);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 40px  rgba(0,0,0,.5) ;
+    padding-top: 50%;
+  }
+
+  .lhom-logo1::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.5);
+  }
+  
+  .lhom-log1{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    color: #fff;
+    text-align: center;
+    transform: translateY(-50%);
+    padding: 0 20%;
+  }
+  
+  .lhom-h1{
+    font-size: 40px;
+  }

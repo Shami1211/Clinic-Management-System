@@ -1,0 +1,165 @@
+/* import font*/
+
+/*Staatliches*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Noto Serif Japanese*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Asap*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+  
+  /*FUUL BOX CSS*/
+  .form-Main-lab-up{
+    padding-left: 350px;
+
+  }
+  .form-Main-lab{
+    padding-left: 150px;
+
+  }
+
+  .form-fullbox{
+    padding: 10px;
+  }
+  
+  .form-f{
+    padding: 30px;
+    
+  }
+
+  /* Create two equal columns that floats next to each other */
+
+  
+  .Aform-row1-lab{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 865px;
+    height: 580px;
+  }
+  
+
+  ::-webkit-scrollbar{
+    width: 9px;
+    background-color: #006c61;
+  }
+
+  ::-webkit-scrollbar-thumb{
+    background-color: #feffff;
+    border-radius: 8px;
+  }
+  /*BOX2 CSS*/
+  .form-in{
+    padding-left: 40px;
+    height: 50px;
+
+  }
+
+  .form-h2{
+    text-align: center;
+     font-family: Asap;
+     max-width: 50ch;
+     color: #000000;
+     font-size: 30px;
+     font-weight: 1000;
+  }
+  
+  .form-h3{
+    font-family: Asap;
+    padding: 10px;
+    color: #000000;
+    font-size: 19px;
+    font-weight: 50px;
+  }
+  
+  /*INPUT COLUM*/
+  .form-description-lab {
+    width: 720px;
+    height: 150px;
+    padding: 12px;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 8.0s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+  }
+  
+  .form-description-lab:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .form-description-lab:active {
+    transform: scale(0.95);
+  }
+  
+  .form-description-lab:focus {
+    border: 2px solid #006c61;
+  }
+
+    /*INPUT COLUM*/
+    .form-in-3 {
+      width: 340px;
+      height: 40px;
+      padding: 12px;
+      border: 2px solid #006c61;
+      outline: none;
+      transition: all 8.0s  cubic-bezier(0.19, 1, 0.22, 1);
+      box-shadow: 0px 0px 20px -18px;
+    }
+    
+    .form-in-3:hover {
+      border: 2px solid #006c61;
+      box-shadow: 0px 0px 20px -17px;
+    }
+    
+    .form-in-3:active {
+      transform: scale(0.95);
+    }
+    
+    .form-in-3:focus {
+      border: 2px solid #006c61;
+    }
+    
+    
+  
+  
+  /*Login Boutton*/
+  .dadd-b-lab{
+    padding-left: 320px;
+  }
+  
+  .form-button-24 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 200px;
+  }
+  
+  .form-button-24:hover,
+  .form-button-24:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .form-button-24:active {
+    opacity: .5;
+  }
+
+  
+  /*end*/
+  

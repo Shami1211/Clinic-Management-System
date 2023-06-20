@@ -1,0 +1,239 @@
+/* import font*/
+
+/*Staatliches*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Noto Serif Japanese*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Asap*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Libre Franklin*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Libre+Franklin&family=Noto+Serif+Hebrew&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Condensed:wght@300;400&family=Roboto+Slab:wght@400;600;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Roboto Slab*/ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Zilla+Slab:ital,wght@1,500&display=swap');
+
+*{
+    background-repeat: no-repeat;
+    background-color: none;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: rgb(4,139,94);
+    background: linear-gradient(90deg, rgba(4,139,94,1) 0%, rgba(2,107,97,1) 40%, rgba(5,94,112,1) 100%);
+  }
+  
+/*WELCOME ADMIN PART START*/
+.phar-h1-log {
+  text-align: center;
+  font-family: Libre Franklin;
+  max-width: 50ch;
+  color: white;
+  transform: scale(0.94);
+  animation: scale 5s forwards cubic-bezier(0.5, 1, 0.89, 1);
+  font-size: 3.5vw;
+  font-weight: bold;
+  padding-left: 60px;
+}
+
+  /*FUUL BOX CSS*/
+  .login-Main{
+    padding-left: 20%;
+    padding-right: 20%;
+    backdrop-filter: blur(20px);
+  }
+  
+  .login-fullbox{
+    padding: 10px;
+  }
+  
+  .login-fr{
+    padding-left: 1vw;
+    padding-right: 1vw;
+  }
+  
+  .login-signinr{
+    width: 32vw;
+    height: 30vw;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .login-column1r {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    background-size:100% ;
+    text-align: center;
+  }
+  
+  .login-column2r {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .login-row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .login-row{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+  }
+  
+  
+  /*BOX2 CSS*/
+  .login-in{
+    padding-left: 40px;
+  }
+  
+  .login-h2r{
+    text-align: center;
+    font-family: Libre Franklin;
+    max-width: 50ch;
+    color: #000000;
+    font-size: 3.5vw;
+    font-weight: 1000;
+  }
+  
+  .login-h3{
+    font-family: Libre Franklin;
+    padding-left: 30px;
+    color: #000000;
+    font-size: 1.5vw;
+    font-weight: 50px;
+  }
+  
+  /*INPUT COLUM*/
+ .Input-logr{
+    width: 350px;
+    max-width: 320px;
+    width: 100%;
+    max-height: 40px;
+    height: 100%;
+    padding: 12px;
+    font-size: 15px;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+  }
+  
+  .Input-logr:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .Input-logr:active {
+    transform: scale(0.95);
+  }
+  
+  .Input-logr:focus {
+    border: 2px solid #006c61;
+  }
+  
+  
+  /*Login Boutton*/
+  .login-br{
+    padding-left: 35%;
+  }
+  
+  .login-button-24lr {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Libre Franklin;
+    font-size: 1.5vw;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40%;
+    outline: 0;
+    padding: 1vw ;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 50%;
+    text-decoration: none;
+  }
+  
+  .login-button-24lr:hover,
+  .login-button-24lr:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .login-button-24lr:active {
+    opacity: .5;
+  }
+  
+  
+  /*Forgotten password*/
+  .login-but2r{
+    padding-left: 55%;
+  }
+  
+  .login-b2r {
+    font-size: 0.8vw;
+    color: #00000080;
+    font-family: Libre Franklin;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition-duration: 400ms;
+    transition-property: color;
+  }
+  
+  .login-b2r:focus,
+  .login-b2r:hover {
+    color: #006c61;
+  }
+  
+  .login-b2r:focus:after,
+  .login-b2r:hover:after {
+    width: 100%;
+    left: 0%;
+  }
+  
+  .login-b2r:after {
+    content: "";
+    pointer-events: none;
+    bottom: -2px;
+    left: 50%;
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    background-color: #006c61;
+    transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition-duration: 400ms;
+    transition-property: width, left;
+  }
+  
+/*responsive*/
+@media(max-width: 767px){
+  .login-column2r{
+    width: 50%;
+    margin-bottom: 30px;
+    padding: 1vw;
+}
+}
+@media(max-width: 574px){
+  .login-column2r{
+    width: 100%;
+}
+}
+  /*end*/
+  
+  /*MR.DILA*/

@@ -1,0 +1,51 @@
+.delete-modal-container{
+    font-family: 'Poppins', sans-serif;
+    position: fixed;
+    top: 30%;
+    left: 36%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+    font-size: 24px;
+    font-weight: 500;
+    width: 500px;
+    height: 300px;
+    background-color: rgb(226, 226, 226);
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 4px 15px 0 rgba(0, 0, 0, 0.19);
+}
+
+.delete-modal-container .modal-header{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.delete-modal-container {
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.modal-buttons{
+    display: flex;
+    flex-direction: row;
+}
+
+.delete-modal-container .modalButton{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(194, 194, 194);
+    color: white;
+    border: none;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.delete-modal-container .deleteButton{
+    background-color: red;
+}

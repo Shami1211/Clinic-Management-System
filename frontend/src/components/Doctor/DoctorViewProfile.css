@@ -1,0 +1,97 @@
+.ama-doc-ul{
+    display:inline-flex;
+    flex-direction: row ;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    padding-left: 60px;
+}
+
+.ama-profile-card {
+    margin: 3px;
+    color: #ffffff;
+    height: auto;
+    width: 100px;
+    margin-top: -550px;
+    text-align: center;
+  }
+
+
+.ama-doc-card{
+    margin: 3px;
+    margin-block-end: 3px;
+    padding: 10px;
+    width: 440px;
+    height: 800px;
+    border-radius: 5px;
+    align-items: center;
+    background-color: #ffffff;
+   
+}
+
+.ama-card-nm{
+    font-size: 17px;
+    margin: 2%;
+    padding-left: 8%;
+    font-family: Oswald;
+    
+}
+
+.ama-card-nm1{
+    font-size: 20px;
+    font-family: Oswald;
+}
+
+.ama-card .card-1{
+    padding:2px;
+    margin: 0;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+}
+
+.ama-search-bar-1 {
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    font-family: Oswald;
+    margin-top: 5px;
+    margin-left: 590px;
+       
+}
+
+.ama-search-button-view {
+    margin-left: 8px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgba(4,139,94,1);
+    color: #fff;
+    font-size: 16px;
+    font-family: Oswald;
+    cursor: pointer; 
+    
+}
+
+.ama-no-results-container-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.ama-no-results-text-1 {
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: -100px;
+}
+
+.ama-view-topic-1{
+    text-align: center;
+    padding: 1rem;
+    font-size: 45px;
+    color: white;
+    font-family: Oswald;
+}

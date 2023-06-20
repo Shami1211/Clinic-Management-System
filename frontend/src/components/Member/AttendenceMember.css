@@ -1,0 +1,17 @@
+
+
+
+
+
+
+.memberAttendence{
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  position: relative;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+}
+
+.atPadding{
+  padding: 10px;
+}

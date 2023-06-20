@@ -1,0 +1,89 @@
+.ama-view-table{
+    background-color: #ffffff;
+    align-items: center;
+    margin-top: 40px;
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
+  
+
+}
+
+.ama-table-td{
+    width: 300px;
+    font-weight: 200;
+    font-family: Oswald;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 5px;
+      border: 2px solid black;
+}
+
+.ama-table-td-1{
+    width: 300px;
+    font-weight: 200;
+    font-size: 15px;
+    font-family: Oswald;
+    border: 2px solid black;
+}
+
+.ama-btn-3{
+    color: rgb(242, 14, 14);
+}
+
+.ama-view-topic{
+    text-align: center;
+    padding: 1rem;
+    font-size: 45px;
+    color: white;
+    font-family: "Oswald";
+}
+
+.ama-table{
+    border-collapse: collapse;
+}
+
+.ama-search-bar {
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    margin-top: 5px;
+    margin-left: 55px;
+    font-family: "Oswald";
+}
+
+.ama-search-button {
+    margin-left: 8px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #006c61;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer; 
+    font-family: "Oswald";
+}
+
+.ama-no-results-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.ama-no-results-text {
+    font-size: 24px;
+    color: #fff;
+    margin-top: -50px;
+}
+
+.ama-header-row {
+    height: 40px;
+    font-size: 18px;
+    width:fit-content;
+    margin:auto;
+    padding-bottom: 500px;
+}

@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.hem-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding: 30px;
+    align-items: flex-start;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .hem-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .hem-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Oswald;
+  }
+  
+  .hem-card-title {
+    font-size: 1.5rem;
+    margin: 0;
+    font-family: Oswald;
+  }
+
+  .hem-card-subtitle {
+    margin: 0;
+    color: #666666;
+    font-size: 1rem;
+    font-family: Oswald;
+  }
+  
+  .hem-card-text {
+    margin: 0;
+    color: #333333;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    font-family: Oswald;
+  }
+  
+  .hem-Button {
+    margin-top: 1rem;
+    margin-right: 1rem;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+  .hem-Button:hover {
+    cursor: pointer;
+  }
+  
+  .hem-update-button {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  .hem-update-button:hover {
+    background-color: #006FE6;
+  }
+  
+  .hem-delete-button {
+    background-color: #FF5252;
+    color: #ffffff;
+  }
+  
+  .hem-delete-button:hover {
+    background-color: #FF3939;
+  }
+
+  .hem-heading{
+    font-family: "Oswald";
+    color: #ffffff;
+  }

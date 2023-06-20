@@ -1,0 +1,368 @@
+/* import font*/
+/*Inter*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Staatliches*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Noto Serif Japanese*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Asap*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Libre Franklin*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Libre+Franklin&family=Noto+Serif+Hebrew&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Condensed:wght@300;400&family=Roboto+Slab:wght@400;600;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Roboto Slab*/ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*FUUL BOX CSS*/
+  
+.form-Main-nwr{
+    padding-left: 20vw;
+    padding-right: 20vw;
+  }
+  
+  .form-fullbox{
+    padding: 10vw;
+  }
+  
+  .form-fr{
+    padding-left: 1vw;
+  }
+  
+  ::-webkit-scrollbar{
+    width: 9px;
+    background-color: #006c61;
+  }
+  
+  ::-webkit-scrollbar-thumb{
+    background-color: #feffff;
+  
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .Aform-row1r{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 58vw;
+    min-height: 49vw;
+    height: 100%;
+  }
+  
+  .Aform-row1rop{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 58vw;
+    min-height: 35vw;
+    height: 100%;
+  }
+  
+  .Aform-row1ropsd{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 58vw;
+    min-height: 3vw;
+    min-height: 40vw;
+  }
+  
+  .Aform-row1ropup{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 58vw;
+    min-height: 38vw;
+    height: 100%;
+  }
+  
+  .Aform-row1rlb{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 58vw;
+    min-height: 42vw;
+    height: 100%;
+  }
+  
+  .form-fromr{
+    padding-left: 1vw;
+  }
+  
+  /*BOX2 CSS*/
+  .form-inr{
+    padding-left:3vw ;
+    padding-top:0.5vw ;
+    padding-bottom:1.5vw ;
+  }
+  
+  .form-h22r{
+    text-align: center;
+    font-family: Libre Franklin;
+     max-width: 50ch;
+     color: #000000;
+     font-size: 2.5vw;
+     font-weight: 1000; 
+     padding: 1.5vw;
+  }
+  
+  .form-h3r{
+    font-family: Libre Franklin;
+    padding-left: 30px;
+    color: #000000;
+    font-size: 1.3vw;
+    font-weight: 50px;
+  }
+  
+    /*INPUT COLUM*/
+  .add-put-bnr{
+    width: 50.5vw;
+    height: 2.8vw;
+    padding: 1vw;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+    font-size: 1.2vw;
+  }
+  
+  .add-put-bnr:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .add-put-bnr:active {
+    transform: scale(0.95);
+  }
+  
+  .add-put-bnr:focus {
+    border: 2px solid #006c61;
+  }
+  
+      /*INPUT COLUM*/
+  .form-in-3r{
+    width: 23.7vw;
+    height: 2.8vw;
+    padding: 1vw;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+    font-size: 1.2vw;
+  }
+  
+  .form-in-3r:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .form-in-3r:active {
+    transform: scale(0.95);
+  }
+  
+  .form-in-3r:focus {
+    border: 2px solid #006c61;
+  }
+  
+  /*INPUT COLUM*/
+  .add-put{
+    width: 720px;
+    height: 2.8vw;
+    padding: 12px;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+    font-size: 17px;
+  }
+  
+  .add-put:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .add-put:active {
+    transform: scale(0.95);
+  }
+  
+  .add-put:focus {
+    border: 2px solid #006c61;
+  }
+  
+  
+  /*INPUT Description COLUM*/
+  .add-put-desr{
+    width: 50.5vw;
+    height: 10.8vw;
+    padding: 1vw;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+   font-size: 1.2vw;
+  }
+  
+  .add-put-desr:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .add-put-desr:active {
+    transform: scale(0.95);
+  }
+  
+  .add-put-desr:focus {
+    border: 2px solid #006c61;
+  }
+  
+  /*INPUT Date COLUM*/
+  .add-put-dtrtd{
+  width: 23.6vw;
+  height: 1.8vw;
+  padding: 1.2vw;
+  border: 2px solid #006c61;
+  outline: none;
+  transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+  box-shadow: 0px 0px 20px -18px;
+  font-size: 1.2vw;
+  }
+  
+  .add-put-dtrtd:hover {
+  border: 2px solid #006c61;
+  box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .add-put-dtrtd:active {
+  transform: scale(0.95);
+  }
+  
+  .add-put-dtrts:focus {
+  border: 2px solid #006c61;
+  }
+  
+  
+  /*INPUT Date COLUM*/
+  .add-put-dtrtdhem{
+    width: 14.9vw;
+    height: 1.8vw;
+    padding: 1.2vw;
+    border: 2px solid #006c61;
+    outline: none;
+    transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+    box-shadow: 0px 0px 20px -18px;
+    font-size: 1vw;
+    }
+    
+    .add-put-dtrtdhem:hover {
+    border: 2px solid #006c61;
+    box-shadow: 0px 0px 20px -17px;
+    }
+    
+    .add-put-dtrtdhem:active {
+    transform: scale(0.95);
+    }
+    
+    .add-put-dtrtdhem:focus {
+    border: 2px solid #006c61;
+    }
+  
+    
+  /*INPUT 2 COLUM*/
+  .add-put-2{
+  width: 340px;
+  height: 40px;
+  padding: 12px;
+  border: 2px solid #006c61;
+  outline: none;
+  transition: all 5.0s cubic-bezier(0.19, 1, 0.22, 1);
+  box-shadow: 0px 0px 20px -18px;
+  font-size: 17px;
+  }
+  
+  .add-put-2:hover {
+  border: 2px solid #006c61;
+  box-shadow: 0px 0px 20px -17px;
+  }
+  
+  .add-put-2:active {
+  transform: scale(0.95);
+  }
+  
+  .add-put-2:focus {
+  border: 2px solid #006c61;
+  }
+  
+  /*Login Boutton*/
+  .dadd-br{
+    padding: 0vw 21vw 0vw ; 
+  }
+  
+  .dadd-button-ap {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Libre Franklin;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 200px;
+  }
+  
+  .dadd-button-ap:hover,
+  .dadd-button-ap:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .form-button-24:active {
+    opacity: .5;
+  }
+  
+   /*Login Boutton*/
+   .dadd-b-ap{
+    padding-left: 300px;
+  }
+  
+  .dadd-button-24rt {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Libre Franklin;
+    font-size: 1.2vw;
+    font-weight: 800;
+    line-height: 1vw;
+    min-height: 3vw;
+    outline: 0;
+    padding: 1vw;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    min-width: 12vw;
+    width: 100%;
+  }
+  
+  .dadd-button-24rt:hover,
+  .dadd-button-24rt:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .dadd-button-24rt:active {
+    opacity: .5;
+  }
+  

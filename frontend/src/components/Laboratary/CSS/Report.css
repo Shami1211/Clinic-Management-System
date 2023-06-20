@@ -1,0 +1,262 @@
+.ful-rep{
+  margin: auto;
+  padding: 1rem;
+}
+
+.card-report {
+  background-color: #ffffff;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+  padding: 10px;
+  height: 100%;
+  max-height: 550px;
+  width: 370px;
+
+  /* align-items: flex-start;
+  align-content: flex-start; */
+}
+
+.font
+{
+    font-size: 10px;
+    padding: 20px;
+}
+
+.search-box {
+  width: 350px;
+  position: relative;
+  display: flex;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
+
+.search-input {
+  width: 600px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  background-color: #eaeaeb;
+  color: #000000;
+  border:none;
+  transition: all .4s;
+  height: 40px;
+  padding: 10px;
+}
+
+.search-input:focus {
+  border:none;
+  outline:none;
+  box-shadow: 0 1px 6px #b8c6db;
+  -moz-box-shadow: 0 1px 6px #b8c6db;
+  -webkit-box-shadow: 0 1px 6px #b8c6db;
+}
+
+
+
+.search-btn {
+  background-color: transparent;
+  font-size: 18px;
+  padding: 6px 9px;
+  margin-left:-45px;
+  border:none;
+  color: #006c61;
+  transition: all .4s;
+  z-index: 10;
+}
+
+.search-btn:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+  color: black;
+}
+
+.search-btn:focus {
+  outline:none;
+  color:black;
+}
+
+  /*Login Boutton*/
+  .Dform-b{
+    padding-left: 10px;
+  }
+
+  .form-button-40 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 1.3vw;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 2vw;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 15vw;
+  }
+  .td-btn{
+    padding: 10px;
+  }
+  
+  .hom-btn1{
+    text-decoration: none;
+    color: white;
+  }
+  .form-button-40:hover,
+  .form-button-40:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .form-button-40:active {
+    opacity: .5;
+  }
+
+.form-button-2 {
+    background: #ff0707;
+    border: 2px solid #ff0404;
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 100px;
+  }
+  
+  .form-button-2:hover,
+  .form-button-2:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #ff0000;
+  }
+  
+  .form-button-2:active {
+    opacity: .5;
+  }
+  
+  .labbtnn{
+    padding-left: 35vw;
+    padding-right: 35vw;
+
+  }
+
+  .labbtnnr{
+    padding-left: 22vw;
+    padding-right: 35vw;
+
+  }
+
+ .detl{
+    background-color: #eaeaeb;
+    height: 60px;
+
+ }
+
+    .form-button-4078 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 1.3vw;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 2vw;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 15vw;
+  }
+
+  .form-button-4078:hover,
+  .form-button-4078:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .form-button-4078:active {
+    opacity: .5;
+  }
+
+  .rep-delt{
+    padding-left: 110px;
+  }
+
+
+  
+  .form-button-40v {
+    background: red;
+    border: 2px solid red;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 1.3vw;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 2vw;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 15vw;
+  }
+
+  .form-button-40v:hover,
+  .form-button-40v:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: red;
+  }
+  
+  .form-button-40v:active {
+    opacity: .5;
+  }

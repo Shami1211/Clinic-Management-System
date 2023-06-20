@@ -1,0 +1,350 @@
+/* import font*/
+/*Inter*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Staatliches*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Noto Serif Japanese*/@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Asap*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Inter*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Libre Franklin*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Libre+Franklin&family=Noto+Serif+Hebrew&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Condensed:wght@300;400&family=Roboto+Slab:wght@400;600;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+/*Roboto*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Inter:wght@300&family=Libre+Franklin&family=Noto+Serif+Hebrew&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto&family=Roboto+Condensed:wght@300;400&family=Roboto+Slab:wght@400;600;800&family=Sarala&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+.b{
+  margin: auto;
+  padding: 1rem;
+}
+
+.serch-ful{
+  text-align: center;
+  padding: 20px;
+}
+
+.drughed{
+    text-align: center;
+    font-family: Inter;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 4vw;
+}
+  .g{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+
+  .Dform-fullbox{
+    padding: 10px;
+  }
+
+  ::-webkit-scrollbar{
+    width: 9px;
+    background-color: #006c61;
+  }
+
+  ::-webkit-scrollbar-thumb{
+    background-color: #feffff;
+  }
+
+  .Dform-row{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    min-width: 30vw;
+    width: 100%;
+    min-height: 52vw;
+    height: 100%;
+  }
+
+  .Dform-rowap{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    min-width: 30vw;
+    width: 100%;
+    min-height: 35vw;
+    height: 100%;
+  }
+
+  .Dform-rowlb{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    min-width: 30vw;
+    width: 100%;
+    min-height: 35vw;
+    height: 100%;
+  }
+
+  .Dform-rowdr{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 30vw;
+    min-height: 35vw;
+    height: 100%;
+  }
+
+  .Dform-rowap0{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 50px  rgba(0,0,0,.5) ;
+    width: 33vw;
+    min-height: 28vw;
+    height: 100%;
+  }
+
+  .Dform-from{
+    padding-left: 3%;
+  }
+  
+  /*BOX2 CSS*/
+  .Dform-in{
+    padding: 7px;
+    font-family: Libre Franklin;
+    color: #000000d6;
+    font-size: 1.2vw;
+    font-weight: 50px;
+    padding-left: 20px;
+    letter-spacing: 1px;
+  }
+
+  .h345{
+    font-size: 2.8vw;
+    text-align: center;
+    font-family: Roboto;
+    padding: 0.3vw;
+  }
+
+  .Dform-h3{
+    font-family: Roboto;
+    padding-left: 10px;
+    color: #000000;
+    font-size: 1.5vw;
+    font-weight: 600;
+  }
+
+  .Dform-tr{
+    padding: 10px;
+  }
+
+  .w{
+    width: 190px;
+  }
+
+  .wdrt{
+    width: 10vw;
+  }
+
+  .wdrt0{
+    width: 8vw;
+  }
+
+  /*Login Boutton*/
+  .Dform-b{
+    padding-left: 10px;
+  }
+
+  .form-button-4 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 1.5vw;
+    font-weight: 800;
+    line-height: 1vw;
+    min-height: 2vw;
+    outline: 0;
+    padding: 0.8vw 1vw;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 8vw;
+  }
+  
+  .hom-btn1{
+    text-decoration: none;
+    color: white;
+  }
+  .form-button-4:hover,
+  .form-button-4:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .form-button-4:active {
+    opacity: .5;
+  }
+
+  .form-button-409 {
+    background: #006c61;
+    border: 2px solid #006c61;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 1.2vw;
+    font-weight: 800;
+    line-height: 1vw;
+    min-height: 1vw;
+    outline: 0;
+    padding: 1vw 0.8vw;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    text-decoration: none;
+    width: 13vw;
+  }
+  
+  .hom-btn1{
+    text-decoration: none;
+    color: white;
+  }
+
+  .form-button-409:hover,
+  .form-button-409:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #006c61;
+  }
+  
+  .form-button-409:active {
+    opacity: .5;
+  }
+  
+.form-button-2 {
+    background: #ff0707;
+    border: 2px solid #ff0404;
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 1.5vw;
+    font-weight: 800;
+    line-height: 1vw;
+    min-height: 1vw;
+    outline: 0;
+    padding: 0.8vw 1vw;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 8vw;
+  }
+  
+  .form-button-2:hover,
+  .form-button-2:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #ff0000;
+  }
+  
+  .form-button-2:active {
+    opacity: .5;
+  }
+
+  .form-button-2r {
+    background: #ff0707;
+    border: 2px solid #ff0404;
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family:Inter;
+    font-size: 1.5vw;
+    font-weight: 800;
+    line-height: 1vw;
+    min-height: 1vw;
+    outline: 0;
+    padding: 0.8vw 1vw;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 15vw;
+  }
+  
+  .form-button-2r:hover,
+  .form-button-2r:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #ff0000;
+  }
+  
+  .form-button-2r:active {
+    opacity: .5;
+  }
+
+  .rep-de{
+    padding-left: 49px;
+  }
+
+  .wd{
+    width: 100px; 
+  }
+
+  .wdr{
+    width: 160px;
+  }
+
+  /*search bar*/
+  .form-search{
+    margin: 0 auto;
+    text-align: center;
+    font: bold 13px sans-serif;
+    max-width: 70%;
+    position: relative; 
+}
+
+.form-search .serinpt{
+    width: 50%;
+    border-radius: 3px;
+    box-sizing: border-box;
+    background-color:  #ffffffad;
+    padding: 15px 15px 11px 12px;
+    border: 2px solid #ffffff;;
+    color:#4E565C;
+    outline: none;
+    -webkit-appearance: none;
+    font-size: 16px;
+}
+
+.form-search .searchbutton{
+   background-color:#ffffff00  ;
+    color: #006c61;
+    width: 70px;
+    padding: 14px 15px 14px 12px;
+    margin-left: -70px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    font-size: 30px;
+}
+
+
+

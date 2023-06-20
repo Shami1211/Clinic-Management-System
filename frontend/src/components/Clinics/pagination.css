@@ -1,0 +1,33 @@
+.pageNumbers{
+    height: 80px;
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    
+  }
+
+  .pageNumbers {
+    padding: 0px;
+    width: auto;
+  }
+
+  .clinicPageNumber{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    color: black;
+    outline: 1px solid black;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .clinicPageNumber.active{
+    background-color: #0fb88f;
+    color: white;
+  }

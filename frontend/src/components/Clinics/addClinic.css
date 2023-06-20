@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.addclinic-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.addclinic-form-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f5f5f5;
+    margin: 30px;
+    border-radius: 7px;
+    width: 450px;
+}
+
+.add-clinic-form{
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.add-clinic-form-title{
+    margin: 10px;
+    font-size: 24px;
+}
+
+.add-clinic-form-field{
+    width: 420px;
+}
+
+
+.add-clinic-time-fields{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+}
+
+
+
+

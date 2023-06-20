@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/*Oswald*/@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500&family=Bebas+Neue&family=Noto+Serif+JP:wght@500&family=Oswald&family=Roboto+Slab:wght@400;800&family=Signika+Negative:wght@700&family=Staatliches&family=Zilla+Slab:ital,wght@1,500&display=swap');
+
+body{
+	line-height: 1.5;
+	font-family: Oswald;
+}
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.footer-container{
+	max-width: 1280px;
+	margin:auto;
+	padding-left: 70px;
+}
+.footer-row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.footer-ul{
+	list-style: none;
+}
+.footer-footer{
+	background-color: #ffffffa2;
+    padding: 30px 0;
+
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+.footer-col .footer-h4{
+	font-size: 18px;
+	color: #000000;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 500;
+	position: relative;
+}
+.footer-col .footer-h4::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #006c61;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+.footer-col .footer-ul .footer-li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col .footer-ul .footer-li .footer-a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #006c61;
+	text-decoration: none;
+	font-weight: 300;
+	color: #000000;
+	display: block;
+	transition: all 0.3s ease;
+	font-weight: 400;
+}
+.footer-col .footer-ul .footer-li .footer-a:hover{
+	color: #006c61;
+	padding-left: 8px;
+}
+.footer-col .social-links .footer-a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255,255,255,0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #006c61;
+	transition: all 0.5s ease;
+}
+.footer-col .social-links .footer-a:hover{
+	color: #006c61;
+	background-color: #dfdfdf;
+}
+.footer-f{
+	
+	font-size: 15px;
+	font-family: Oswald;
+	font-weight: 100;
+	color: #00000049;
+	padding-left: 350px;
+	padding-top: 15px;
+}
+
+/*responsive*/
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+}
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+}
+
+
+
+

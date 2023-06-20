@@ -1,0 +1,36 @@
+.hom-slide{
+  background-image: url(./Photos/newback.jpg);
+  width: 100%;
+  height: 600px;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: 1px solid rgba(0,0,0,.5);
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 40px  rgba(0,0,0,.5) ;
+}
+
+.hom-slide::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.hom-slide1{
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  color: #fff;
+  text-align: center;
+  transform: translateY(-50%);
+  padding: 0 20%;
+}
+
+.hom-h1-slide{
+  font-size: 3vw;
+}
